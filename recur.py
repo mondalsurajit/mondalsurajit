@@ -5,3 +5,6 @@ def recur1(n):
        return
 x=int(input("Enter a number"))
 recur1(x)
+
+#or 
+print(12+30)
